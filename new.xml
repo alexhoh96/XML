@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<person>
+<firstName>Alex</firstName>
+<lastName>Khokhlov</lastName>
+<age>26</age>
+<pets>0</pets>
+<future_salary>50000</future_salary>
+</person>
