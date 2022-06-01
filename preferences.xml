@@ -1,6 +1,6 @@
- <hobbies>
- <favorite_movie>Гарри Поттер</favorite_movie>
- <favorite_TV_show>Нет одного самого любимого</favorite_TV_show>
- <favorite_food>шашлык</favorite_food>
- <favorite_time_of_year>summer</favorite_time_of_year>
- </hobbies>
+ <Hobbies>
+ <FavoriteMovie>Гарри Поттер</FavoriteMovie>
+ <FavoriteTVShow>Нет одного самого любимого</FavoriteTVShow>
+ <FavoriteFood>шашлык</FavoriteFood>
+ <FavoriteTimeOfYear>summer</FavoriteTimeOfYear>
+ </Hobbies>
