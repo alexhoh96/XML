@@ -1,10 +1,10 @@
  <?xml version="1.0"?>
   <bug_report>
   <ID></ID>
-    <Заголовок></Заголовок>
-    <Шаги_воспроизведения></Шаги_воспроизведения>
-    <Ожидаемый_результат></Ожидаемый_результат>
-    <Фактический_результат></Фактический_результат>
-    <Окружение></Окружение>
-    <Приоритет></Приоритет>
+  <Header></Header>
+  <PlaySteps></PlaySteps>
+  <ExpectedResult></ExpectedResult>
+  <ActualResult></ActualResult>
+  <Environment></Environment>
+  <Priority></Priority>
   </bug_report>
